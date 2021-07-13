@@ -8,4 +8,4 @@ Hack your game without flex.
 
 ### Install
 
-**[zlib LICENSE](./LICENSE)**
+[zlib License](./LICENSE)
