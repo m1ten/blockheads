@@ -1,9 +1,9 @@
 ## Blockheads++
 Hack your game without flex.
 
-**NOTE: 
+**NOTE:**
 - I am not reponsible for anything. Please proceed with caution.
-- I will not provide original blockheads ipa.**
+- I will not provide original blockheads ipa.
 - You may get cloud banned, use Apps Manager to unban yourself. (You will lose access to your usernames)
 
 iOS (jailbreak required):
