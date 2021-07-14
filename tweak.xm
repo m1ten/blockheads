@@ -1,6 +1,6 @@
 // Blockheads++ v1.7.4
 // made by sharcc
-// tweak.wm (obj-c)
+// tweak.xm (obj-c)
 
 #import <UIKit/UIKit.h>
 
